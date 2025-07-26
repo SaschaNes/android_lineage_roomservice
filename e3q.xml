@@ -3,7 +3,7 @@
   <project path="device/samsung/e3q" remote="github" name="SaschaNes/android_device_e3q" revision="lineage_22.2" />
   <project path="device/samsung/sm8650-common" remote="github" name="SaschaNes/android_device_samsung_sm8650-common" revision="lineage_22.2" />
   <project path="kernel/samsung/sm8650" remote="github" name="SaschaNes/android_kernel_samsung_sm8650" revision="lineage_22.2" />
-  <project path="kernel/samsung/sm8650-modules" remote="aosp-raviole" name="SaschaNes/android_kernel_samsung_sm8650-modules" revision="lineage_22.2" />
+  <project path="kernel/samsung/sm8650-modules" remote="github" name="SaschaNes/android_kernel_samsung_sm8650-modules" revision="lineage_22.2" />
   <project path="kernel/samsung/sm8650-devicetrees" remote="github" name="SaschaNes/android_kernel_samsung_sm8650-devicetrees" revision="lineage_22.2" />
   <project path="hardware/samsung" remote="github" name="SaschaNes/android_hardware_samsung" revision="lineage_22.2" />
   <project path="vendor/samsung/sm8650-common" remote="github" name="SaschaNes/android_vendor_samsung_sm8650-common" revision="lineage_22.2" />
